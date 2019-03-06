@@ -20,5 +20,4 @@ var funkyFunction = function() {
   }
 }
 
-theFunk = funkyFunction()
-myScope()
+theFunk = funkyFunction()()
