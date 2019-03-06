@@ -25,4 +25,3 @@ var theFunk = funkyFunction {
     return "FUNKY!"
   }
 }
-
